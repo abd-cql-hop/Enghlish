@@ -1,0 +1,40 @@
+body{
+
+    background-color: brown;
+    text-align: center;
+
+
+
+}
+
+
+h1{
+
+    font-size: 60px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0;
+}
+
+
+
+.css-button-fully-rounded--grey {
+    min-width: 130px;
+    height: 40px;
+    color: #fff;
+    padding: 5px 10px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    border-radius: 20px;
+    border: 2px solid #495057;
+    background: #495057;
+    margin: 20;
+  }
+  .css-button-fully-rounded--grey:hover {
+    background: #fff;
+    color: #495057
+    
+  }
